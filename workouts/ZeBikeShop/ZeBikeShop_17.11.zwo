@@ -1,0 +1,19 @@
+<workout_file>
+    <author>Z.Bike Shop</author>
+    <name>Ze Bike Shop 17.11</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="1800" Power="0.60874999" pace="0"/>
+        <IntervalsT Repeat="3" OnDuration="300" OffDuration="180" OnPower="0.96589291" OffPower="0.53732139" pace="0"/>
+        <IntervalsT Repeat="4" OnDuration="45" OffDuration="45" OnPower="1.2873214" OffPower="0.50160712" pace="0"/>
+        <IntervalsT Repeat="3" OnDuration="300" OffDuration="180" OnPower="0.96589291" OffPower="0.53732139" pace="0"/>
+        <IntervalsT Repeat="4" OnDuration="45" OffDuration="45" OnPower="1.2873214" OffPower="0.50160712" pace="0"/>
+        <SteadyState Duration="900" Power="0.57303572" pace="0"/>
+        <SteadyState Duration="1200" Power="0.79446429" pace="0"/>
+        <SteadyState Duration="600" Power="0.57303572" pace="0"/>
+        <SteadyState Duration="1200" Power="0.79446429" pace="0"/>
+        <SteadyState Duration="300" Power="0.50160712" pace="0"/>
+    </workout>
+</workout_file>

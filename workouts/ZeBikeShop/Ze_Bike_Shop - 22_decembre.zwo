@@ -1,0 +1,25 @@
+<workout_file>
+    <author>Z.Bike Shop</author>
+    <name>Z.Bike Shop 22 decembre</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="3600" Power="0.60874999" pace="0"/>
+        <SteadyState Duration="600" Power="0.80874997" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0"/>
+        <IntervalsT Repeat="10" OnDuration="60" OffDuration="60" OnPower="0.85874999" OffPower="0.60874999" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0"/>
+        <IntervalsT Repeat="10" OnDuration="30" OffDuration="90" OnPower="0.96589291" OffPower="0.68017858" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0"/>
+        <SteadyState Duration="300" Power="0.95160717" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0">
+            <textevent timeoffset="593" message="Meilleur moyenne possible !!!"/>
+        </SteadyState>
+        <FreeRide Duration="600" FlatRoad="0">
+            <textevent timeoffset="137" message="Allez les gros watts !"/>
+            <textevent timeoffset="383" message="C&apos;est dur ? Bien fait pour vous"/>
+        </FreeRide>
+        <SteadyState Duration="600" Power="0.5" pace="0"/>
+    </workout>
+</workout_file>

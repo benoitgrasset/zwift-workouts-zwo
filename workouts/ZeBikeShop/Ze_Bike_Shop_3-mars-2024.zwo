@@ -1,0 +1,82 @@
+<workout_file>
+  <author>Z.Bike Shop</author>
+  <name>Ze Bike Shop-02-03-2024</name>
+  <description />
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags />
+  <workout>
+    <SteadyState Duration="1800" Power="0.65" pace="80" />
+    <SteadyState Duration="900" Power="0.83" pace="80" />
+    <SteadyState Duration="600" Power="0.58" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="10" Power="2.18" pace="80" />
+    <SteadyState Duration="50" Power="0.54" pace="80" />
+    <SteadyState Duration="600" Power="0.58" pace="80" />
+    <SteadyState Duration="900" Power="0.83" pace="80" />
+    <SteadyState Duration="600" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="30" Power="1.27" pace="80" />
+    <SteadyState Duration="90" Power="0.58" pace="80" />
+    <SteadyState Duration="600" Power="0.58" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="180" Power="0.94" pace="80" />
+    <SteadyState Duration="120" Power="0.72" pace="80" />
+    <SteadyState Duration="600" Power="0.58" pace="80" />
+  </workout>
+</workout_file>

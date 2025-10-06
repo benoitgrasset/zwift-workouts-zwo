@@ -1,0 +1,22 @@
+<workout_file>
+    <author>Z.Bike Shop</author>
+    <name>Ze Bike Shop - Une saleté</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="1800" PowerLow="0.58345455" PowerHigh="0.69254541" pace="0"/>
+        <SteadyState Duration="900" Power="0.838" pace="0"/>
+        <SteadyState Duration="600" Power="0.69254541" pace="0"/>
+        <FreeRide Duration="600" FlatRoad="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <SteadyState Duration="900" Power="0.838" pace="0"/>
+        <SteadyState Duration="600" Power="0.69254541" pace="0"/>
+        <IntervalsT Repeat="10" OnDuration="10" OffDuration="80" OnPower="1.4561819" OffPower="0.76527274" pace="0"/>
+        <SteadyState Duration="600" Power="0.69254541" pace="0"/>
+        <IntervalsT Repeat="5" OnDuration="60" OffDuration="120" OnPower="0.94709092" OffPower="0.76527274" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <FreeRide Duration="600" FlatRoad="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+    </workout>
+</workout_file>

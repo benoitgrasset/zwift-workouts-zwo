@@ -1,0 +1,18 @@
+<workout_file>
+    <author>Z.Bike Shop</author>
+    <name>ZBS 19 Janvier</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="1800" Power="0.60874999" pace="0"/>
+        <IntervalsT Repeat="15" OnDuration="60" OffDuration="60" OnPower="0.82303572" OffPower="0.60874999" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0"/>
+        <IntervalsT Repeat="10" OnDuration="60" OffDuration="120" OnPower="0.93017864" OffPower="0.60874999" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0"/>
+        <SteadyState Duration="1200" Power="0.80874997" pace="0"/>
+        <SteadyState Duration="600" Power="0.60874999" pace="0"/>
+        <IntervalsT Repeat="7" OnDuration="60" OffDuration="240" OnPower="1.2873214" OffPower="0.60874999" pace="0"/>
+        <SteadyState Duration="300" Power="0.5" pace="0"/>
+    </workout>
+</workout_file>

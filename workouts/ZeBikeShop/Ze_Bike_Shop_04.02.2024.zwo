@@ -1,0 +1,22 @@
+<workout_file>
+    <author>Z.Bike Shop</author>
+    <name>Ze Bike Shop 04.02.2024</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="1800" PowerLow="0.24890909" PowerHigh="0.69254541" pace="0"/>
+        <SteadyState Duration="900" Power="0.8198182" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <IntervalsT Repeat="15" OnDuration="10" OffDuration="50" OnPower="1.8198183" OffPower="0.54709089" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <SteadyState Duration="900" Power="0.8198182" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <IntervalsT Repeat="15" OnDuration="30" OffDuration="30" OnPower="1.2743636" OffPower="0.54709089" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <SteadyState Duration="900" Power="0.8198182" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+        <IntervalsT Repeat="5" OnDuration="60" OffDuration="120" OnPower="1.0016364" OffPower="0.76527274" pace="0"/>
+        <SteadyState Duration="600" Power="0.58345455" pace="0"/>
+    </workout>
+</workout_file>
